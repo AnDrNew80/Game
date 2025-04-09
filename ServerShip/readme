@@ -1,1 +1,11 @@
+# MongoDB MMO Game Example (Android)
 
+This project was developed as part of my Bachelor's thesis, titled "The Application of the MongoDB Database on the Example of an MMO (Massively Multiplayer Online) Game."
+
+It showcases a simple MMO game designed for Android mobile devices. The project utilizes the following technologies:
+
+* **Game Engine:** GameMaker
+* **Backend:** Node.js
+* **Database:** MongoDB
+
+This repository contains the source code and related files for this demonstration.
